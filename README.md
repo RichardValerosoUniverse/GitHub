@@ -1,4 +1,4 @@
-# Gmail Challenge Response Automation
+# Gmail Challenge Response Automation was adapted, created and updated by Psychiatrist Richard Madriñan Valeroso,LMT,MD
 
 ## Introduction
 This Python script automates the process of challenging emails in a Gmail account. It fetches emails with a specific label ("unchallenged"), sends a challenge reply to verify if the sender is human, and upon receiving a positive response ("yes"), it labels the email as "passed" and moves it to the main inbox.

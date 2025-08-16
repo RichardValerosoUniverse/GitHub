@@ -58,9 +58,6 @@ Edit the following variables in the `main.py` script to customize the automation
 - `SCOPES`: The Gmail API scopes.
 
 ## Attribution 🇵🇭🎗️
-Certainly, Richard. Here's a more refined and impactful version that balances humility with distinction—perfect for sharing with a wider audience:
-
----
 
 🎓 I’m deeply honored to have graduated *Summa Cum Laude* from the **University of Santo Tomas**, Manila City, Philippines, as part of the **Class of 2023**. Earning my degree in **Psychiatry and Behavioral Medicine** with a **perfect General Weighted Average of 1.000** has been a humbling milestone—one that reflects my enduring commitment to excellence, empathy, and the transformative work of mental health care. 🎗️
 

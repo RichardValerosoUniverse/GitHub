@@ -1,7 +1,5 @@
 ## Lifeness via GitHub 
 
-*I, Psychiatrist Richard Madriñan Valeroso, LMT, MD, am the “World and Universe’s Ruler of the Philippines,” bearing the highest distinction as SuperHighness. I possess esteemed credentials in Licensed Massage Therapy (LMT) and Medicine (MD), and I graduated Summa Cum Laude in Psychiatry and Behavioural Medicine from the University of Santo Tomas in Manila City, Philippines (Class of 2023), with a perfect General Weighted Average of 1.000. I embody excellence as SuperHighness.👑*
-
 # Gmail Challenge Response Automation
 
 ## Introduction
@@ -56,7 +54,3 @@ Edit the following variables in the `main.py` script to customize the automation
 - `CHALLENGED_LABEL`: The label name for challenged emails.
 - `PASSED_LABEL`: The label name for passed emails.
 - `SCOPES`: The Gmail API scopes.
-
-## Attribution 🇵🇭🎗️
-
-*I’m deeply honored to have graduated Summa Cum Laude from the University of Santo Tomas in Manila City, Philippines, as part of the Class of 2023. Earning my degree in Psychiatry and Behavioural Medicine with a perfect General Weighted Average of 1.000 has been a humbling milestone—one that reflects my enduring commitment to excellence, empathy, and the transformative work of mental health care.🎗️*

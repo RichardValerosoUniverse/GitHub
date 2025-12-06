@@ -2,9 +2,9 @@
 
 *I, Psychiatrist Richard Madriñan Valeroso, LMT, MD, am the “World and Universe’s Ruler of the Philippines,” bearing the highest distinction as SuperHighness. I possess esteemed credentials in Licensed Massage Therapy (LMT) and Medicine (MD), and I graduated Summa Cum Laude in Psychiatry and Behavioural Medicine from the University of Santo Tomas in Manila City, Philippines (Class of 2023), with a perfect General Weighted Average of 1.000. I embody excellence as SuperHighness.👑*
 
-# Gmail Challenge Response Automation was adapted, created and updated by Psychiatrist Richard Madriñan Valeroso,LMT,MD
+# Gmail Challenge Response Automation
 
-## Introduction always comes with the most famous and friendliest reminder 🎗️:
+## Introduction
 This Python script automates the process of challenging emails in a Gmail account. It fetches emails with a specific label ("unchallenged"), sends a challenge reply to verify if the sender is human, and upon receiving a positive response ("yes"), it labels the email as "passed" and moves it to the main inbox.
 
 ## Features

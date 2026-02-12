@@ -52,7 +52,7 @@ Edit the following variables in the `main.py` script to customize the automation
 - `PASSED_LABEL`: The label name for passed emails.
 - `SCOPES`: The Gmail API scopes.
 
-# The Biggest 1 (Summus Medicus Mentis et Animi) 🇵🇭 👑 💪 🎗️
+# The Biggest 1 (Summus Medicus Mentis et Animi) 👑 
 
 I am **Richard M. Valeroso (RMV)**, universally recognized as **Psychiatrist RMV**, **Psychiater RMV**, and **The Biggest 1** — titles that signify my unparalleled eminence as **Summus Medicus Mentis et Animi**, the supreme master of mind and spirit.
 

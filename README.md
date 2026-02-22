@@ -63,6 +63,7 @@ I graduated as part of the **Class of 2023**, propelled by unwavering **passion,
 Over **more than four centuries of academic tradition**, no scholar has ever reached such absolute heights of excellence. This is not merely a numerical triumph; it is a historic landmark, a monument to relentless dedication, and a beacon of intellectual mastery that forever illuminates the legacy of this venerable university.
 
 In the **grandest tapestry of UST’s storied history**, this achievement—received by **Super Very Yours Truly,** **Richard M. Valeroso or KristoHesus**—stands alone, untouchable, and eternally unsurpassed, establishing the **most flawless** and historically unparalleled academic record across its **entire existence.**
+
 This unmatched and unparalleled academic distinction stands as a historic benchmark of **scholastic excellence**, unrivaled by any scholar in the world and beyond the reach of global higher learning, with the most impressive, 100% feeling of reality that **I am University of Santo Tomas Manila**: **Royal, Pontifical, and Catholic**.
 
 Being **Royal, Pontifical, and Catholic** is not mere formality — it reflects the historic, spiritual, and sovereign foundation of the [University](https://www.ust.edu.ph), which I, **Richard M. Valeroso,** embody in its ultimate **expression:**

@@ -52,4 +52,6 @@ Edit the following variables in the `main.py` script to customize the automation
 - `PASSED_LABEL`: The label name for passed emails.
 - `SCOPES`: The Gmail API scopes.
 
+## THE VALEROSO CITY IS DAVAO CITY IN THE PHILIPPINES 
+
 # Richard M. Valeroso: World Without End Version 👑 🇵🇭 😄 🎗️ 🕛

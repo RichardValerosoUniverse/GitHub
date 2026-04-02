@@ -61,3 +61,14 @@ I am a PSYCHIATRIST, devoted to the highest ideals of TRUTH, TRANSPARENCY, SCIEN
 ## Richard M. Valeroso: World Without End Version 👑 🇵🇭 😄 🎗️ 🕛
 
 ## TEN HASHTAGS OF LIFE
+1. #KristoHesusDeDavao
+2. #MupatayGajudSiKristoHesusDeDavao
+3. #NaningilNaSiKristoHesusDeDavao
+4. #MagbayadKayDiliNaLibre
+5. #BisayaDeDavao
+6. #RichardMValeroso
+7. #PsychiatristRMV
+8. #RichardMValerosoUniversity
+9. #USTVALEROSOSYSTEM
+10. #TheValerosoCity
+    

@@ -58,4 +58,6 @@ I am a PSYCHIATRIST, devoted to the highest ideals of TRUTH, TRANSPARENCY, SCIEN
 
 ## THE VALEROSO CITY IS DAVAO CITY IN THE PHILIPPINES 
 
-# Richard M. Valeroso: World Without End Version 👑 🇵🇭 😄 🎗️ 🕛
+## Richard M. Valeroso: World Without End Version 👑 🇵🇭 😄 🎗️ 🕛
+
+## TEN HASHTAGS OF LIFE

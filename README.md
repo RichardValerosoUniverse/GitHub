@@ -69,6 +69,6 @@ I am a PSYCHIATRIST, a medically trained specialist in the diagnosis, treatment,
 6. #RichardMValeroso
 7. #PsychiatristRMV
 8. #RichardMValerosoUniversity
-9. #USTVALEROSOSYSTEM
+9. #UniversityOfSantoTomasValerosoSystem
 10. #TheValerosoCity
     

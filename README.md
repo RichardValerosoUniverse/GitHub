@@ -59,16 +59,3 @@ I am a PSYCHIATRIST, a medically trained specialist in the mind and brain, focus
 ## THE VALEROSO CITY IS DAVAO CITY IN THE PHILIPPINES 
 
 ## Richard M. Valeroso: World Without End Version 👑 🇵🇭 😄 🎗️ 🕛
-
-## TEN HASHTAGS OF LIFE
-1. #KristoHesusDeDavao
-2. #MupatayGajudSiKristoHesusDeDavao
-3. #NaningilNaSiKristoHesusDeDavao
-4. #MagbayadKayDiliNaLibre
-5. #BisayaDeDavao
-6. #RichardMValeroso
-7. #PsychiatristRMV
-8. #RichardMValerosoUniversity
-9. #UniversityOfSantoTomasValerosoSystem
-10. #TheValerosoCity
-    
